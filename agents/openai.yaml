@@ -1,0 +1,4 @@
+interface:
+  display_name: "照片拓印海报"
+  short_description: "将照片分步转成黑白拓印、克制套色与纸感海报，保留墨块和疏密节奏"
+  default_prompt: "使用 $photo-rubbing-poster，把这张照片分步做成拓印海报；请自行判断构图和拟定提示词，并保留中间素材。"
